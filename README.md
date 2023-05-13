@@ -1,1 +1,1 @@
-### AI integration in web projects 
+### AI integration in various examples
